@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F756DBB5-5081-400A-8329-63618967529D}"
+	ProjectSection(SolutionItems) = preProject
+		keys.config = keys.config
+		SQLQuery1.sql = SQLQuery1.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{114E0B7C-5781-4674-B250-5CF97C5F520D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{D57045A7-B26C-4948-B8BB-FDF0B8899E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubDemo.Common", "EventHubDemo.Common\EventHubDemo.Common.csproj", "{FBECC395-0597-4746-9CC3-DB749F1CA454}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "EventProcessor", "EventProcessor\EventProcessor.ccproj", "{B6AEC0F3-0B4C-4990-A71D-A6BFD7CED421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiverRole", "ReceiverRole\ReceiverRole.csproj", "{A6E9D762-27BC-48A4-97CE-D0FAF6383EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114E0B7C-5781-4674-B250-5CF97C5F520D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114E0B7C-5781-4674-B250-5CF97C5F520D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114E0B7C-5781-4674-B250-5CF97C5F520D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114E0B7C-5781-4674-B250-5CF97C5F520D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57045A7-B26C-4948-B8BB-FDF0B8899E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57045A7-B26C-4948-B8BB-FDF0B8899E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57045A7-B26C-4948-B8BB-FDF0B8899E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57045A7-B26C-4948-B8BB-FDF0B8899E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBECC395-0597-4746-9CC3-DB749F1CA454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBECC395-0597-4746-9CC3-DB749F1CA454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBECC395-0597-4746-9CC3-DB749F1CA454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBECC395-0597-4746-9CC3-DB749F1CA454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AEC0F3-0B4C-4990-A71D-A6BFD7CED421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AEC0F3-0B4C-4990-A71D-A6BFD7CED421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AEC0F3-0B4C-4990-A71D-A6BFD7CED421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AEC0F3-0B4C-4990-A71D-A6BFD7CED421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E9D762-27BC-48A4-97CE-D0FAF6383EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E9D762-27BC-48A4-97CE-D0FAF6383EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E9D762-27BC-48A4-97CE-D0FAF6383EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E9D762-27BC-48A4-97CE-D0FAF6383EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
