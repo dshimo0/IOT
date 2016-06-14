@@ -11,21 +11,20 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 ## Demos
 
 * Introduction to Azure IoT Suite
-[[Demo script & source code](#)]
+[[Demo script & source code](./Demo-AzureIoTSuite-RemoteMon/)]
 [[video](#)]
 
 * Devices
-[[Demo script & source code](#)]
+[[Demo script & source code](./Demo-Devices/)]
 [[video](#)]
 
 * Ingestion
-[[Demo script & source code](#)]
+[[Demo script & source code](./Demo-Ingestion/)]
 [[video](#)]
 
 * Analytics to Presentation
-[[Demo script & source code](#)]
+[[Demo script & source code](./Demo-Analytics-and-Presentation/)]
 [[video](#)]
-
 
 ## Session objectives
 
