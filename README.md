@@ -48,3 +48,7 @@ These prerequisits are covered in the [[???](#)] session.
 - [[IoT Hub](https://azure.microsoft.com/en-us/documentation/services/iot-hub/)]
 - [[Stream Analytics](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)]
 - [[Event Hubs](https://azure.microsoft.com/en-us/documentation/services/event-hubs/)]
+
+## Code of Conduct
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
