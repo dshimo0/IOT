@@ -91,13 +91,13 @@ _Estimated Time: 6 minutes_
 
     <img src="./media/demo-06.png" style="max-width: 500px" />
 
-    h. Set the command field to _StartTelemetry.
+    h. Set the command field to _StartTelemetry_.
 
     i. Click **Send Command**.
 
     <img src="./media/demo-07.png" style="max-width: 500px" />
 
-    j. Click DASHBOARD on the left navigation.
+    j. Click **DASHBOARD** on the left navigation.
 
     k. Show the telemetry data for _SampleDevice001_x_ has resumed.
 
