@@ -4,7 +4,7 @@ Internet-of-things (IOT) is driving some compelling application scenarios in our
 
 ## Presentation
 
-Download the [PowerPoint](#).
+Download the [PowerPoint](IoT.pptx).
 
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
@@ -28,19 +28,14 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 
 ## Session objectives
 
-- Todo
-- Todo
-- Todo
-- Todo
-- Todo
+* Understand the Microsoft IoT Reference Architecture
+* Understand how to use the Azure IoT Suite pre-configured solutions to accelerate solution development
+* Understand IoT Hub capabilities such as device identity, security, device-to-cloud, cloud-to-device, and device management (ie: firmware update)
+* Understand how to perform analytics on ingested data and presentation (ie: dashboards, PowerBI, etc.)
 
 ## Session Prerequisits
 
-- Todo
-- Todo
-- Todo
-
-These prerequisits are covered in the [[???](#)] session.
+* None
 
 ## Azure Services Covered
 
